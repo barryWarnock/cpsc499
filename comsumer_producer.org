@@ -1,5 +1,16 @@
-| consumer | producer |
-|----------+----------|
-|          |          |
-|----------+----------|
-
+| Left=Consumer, Right=Prod    | sales | stocking | ad, gen | ad, mag | orders, mag | ord, toys | ord, comics | ord, refr | group events | returns | spec req, mag/toy | spec req, comics | spec req, group zone | support |                               |       |          |         |         |             |           |             |           |              |         |                   |                  |                      |         |
+|------------------------------+-------+----------+---------+---------+-------------+-----------+-------------+-----------+--------------+---------+-------------------+------------------+----------------------+---------|
+| sales                        |       |          |         |         |             |           |             |           |              |         |                   |                  |                      |         |
+| stocking                     |       |          |         |         |             |           |             |           |              |         |                   |                  |                      |         |
+| advertising, general         |       |          |         |         |             |           |             |           |              |         |                   |                  |                      |         |
+| advertising, magic           |       |          |         |         |             |           |             |           |              |         |                   |                  |                      |         |
+| orders, magic                |       |          |         |         |             |           |             |           |              |         |                   |                  |                      |         |
+| orders, toys                 |       |          |         |         |             |           |             |           |              |         |                   |                  |                      |         |
+| orders, comics               |       |          |         |         |             |           |             |           |              |         |                   |                  |                      |         |
+| orders, refreshments         |       |          |         |         |             |           |             |           |              |         |                   |                  |                      |         |
+| group events                 |       |          |         |         |             |           |             |           |              |         |                   |                  |                      |         |
+| returns                      |       |          |         |         |             |           |             |           |              |         |                   |                  |                      |         |
+| special requests, magic/toys |       |          |         |         |             |           |             |           |              |         |                   |                  |                      |         |
+| special requests, comics     |       |          |         |         |             |           |             |           |              |         |                   |                  |                      |         |
+| special requests, group zone |       |          |         |         |             |           |             |           |              |         |                   |                  |                      |         |
+| support                      |       |          |         |         |             |           |             |           |              |         |                   |                  |                      |         |
