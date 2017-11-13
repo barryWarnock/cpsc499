@@ -16,3 +16,15 @@ name (importance, dysfunction, feasibility)
    2. comics (5,1,1)
    3. group zone (2,2,5)
 9. support (5,1,1)
+
+
+flow objects:
+- special request flows
+  - Magic/toys
+  - comics
+  - group zone
+- order product message to distributor
+- schedule
+- pos
+- HR form
+- end of day form
