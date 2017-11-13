@@ -1,0 +1,13 @@
+- Architecture
+- group zone special requests
+  - discovery
+  - analysis
+  - redesign
+- magic and toys special requests
+  - discovery
+  - analysis
+  - redesign
+- BACKUP: order toys
+  - discovery
+  - analysis
+  - redesign 
